@@ -1,4 +1,4 @@
-0 this is just0 an0 example of what we can do in any type of text files 
-0 here is the0 second line
-0 here is the0 third lines
-0 kill turtles0
+2 this is just2 an2 example of what we can do in any type of text files 
+2 here is the2 second line
+2 here is the2 third lines
+2 kill turtles2
